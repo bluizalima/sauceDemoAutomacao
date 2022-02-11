@@ -1,4 +1,4 @@
-# sauceDemoAutomacao
+# Automação Sauce Demo
 
 Projeto desenvolvido em Selenium com Junit:
 Selenium: 4.0.0-beta-4
